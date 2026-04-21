@@ -1,0 +1,3 @@
+[build]
+  command = "pnpm --filter interactive-systems-lab... run build"
+  publish = "dist/public"
