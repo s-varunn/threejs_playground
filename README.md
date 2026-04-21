@@ -1,4 +1,4 @@
-# Interactive Systems Lab
+# ThreeJS_Playground
 
 This is a small Three.js playground built with React, TypeScript, Vite, and Tailwind CSS.
 
@@ -56,4 +56,3 @@ pnpm typecheck
 - `vite.config.ts` — Vite configuration
 - `tsconfig.json` — TypeScript configuration
 
-# ThreeJS_Playground
